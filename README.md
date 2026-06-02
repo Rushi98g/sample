@@ -2,7 +2,7 @@
 
 A Power BI dashboard project that analyzes the impact of Generative AI usage on student academic performance, skill retention, anxiety levels, and burnout risk.
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview]("Screenshot 2026-06-02 153224.png")
 
 ---
 
